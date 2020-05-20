@@ -5,7 +5,7 @@
 ![img-1](images/diagram-project-two.png)
 
 ```sh
-In this first project, I deployed web servers for a highly available web app using CloudFormation. I wrote the code that creates and deploys the infrastructure and application for an Instagram-like app from the ground up. First I deployed the networking components, followed by servers, security roles and software.
+In this second project, I deployed web servers for a highly available web app using CloudFormation. I wrote the code that creates and deploys the infrastructure and application for an Instagram-like app from the ground up. First I deployed the networking components, followed by servers, security roles and software.
 ```
 
 ## The files included are:
